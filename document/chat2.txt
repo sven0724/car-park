@@ -1,0 +1,102 @@
+HI
+hello.
+
+And I would Like to say 
+that can the layout be some more fancy or something?
+
+sure.
+
+The rectanglar box could replace by some background color
+and the corner could be round or something
+
+and the on/off may be present by some gif
+something like that? more presentable
+
+so I continue for the 3rd Json
+again, no "null" should be seen
+the the time is not such user readable format
+
+then, skip CarPlate. I don't need that field
+
+then, the "Name" should have something in Json
+
+for the name field, please use "entranceName"
+
+got it so far?
+
+sure.
+
+send these notes to me after,.ok
+
+The returned Json in SignalR will not have paging info. 
+
+would that be some problem?
+
+no.
+I show you the sample signalR Json
+
+This is the sample Json return, by default, it is order by time desc
+
+and return 15 record currently
+
+do you need the paging info?
+
+no.
+great
+then Just go head
+I will deploy it in to sit enviroment
+
+and the signalR program?
+No need. I will deploy to SIT
+car-park-api-sit.xanvi.com
+
+I see.
+so the project problem is all?
+
+yes. any problem?
+
+I have some proglems after a while.
+You can login to skype and I will let you know in skype if I am not in freelancer, so 
+please avaliable in skype from now.
+
+Do you know how to trigger the event?
+
+what do you mean?
+
+signalR program>
+yes. Maybe I make some link for you to trigger the event.
+
+For the car space, you can click into the car space and change the status to Occupied/Free
+
+While for the other 2 Json, it might need additional link for you to trigger the signalR Json
+
+Let me know please.
+I need to create
+
+For 1st Json, you could change here.
+
+it will trigger the event
+
+{"ParkingZoneId":"2b900579-2570-42d5-b606-4acce208ac7d","ParkingZoneName":"Parking Zone A","TotalParkingSpaces":48,"UsedParkingSpace":26,"RemainParkingSpace":21,"ReservedParkingSpace":1}
+
+see?
+Status to it?
+Yes. any status change. It will affect the car space
+
+yeah.
+and for other 2 json?
+wait
+
+ok
+Let me know after done.
+OK. may be you can leave now
+sure and not forget to login skype.
+already there.
+Ok.
+and these notes...
+
+
+
+
+
+

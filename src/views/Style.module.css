@@ -1,0 +1,31 @@
+.header{
+    box-shadow: 0 2px 2px 0 rgba(60,75,100,.14),0 3px 1px -2px rgba(60,75,100,.12),0 1px 5px 0 rgba(60,75,100,.2);
+    }
+.cardHeader{
+    position: relative;
+    display: flex;
+    font-size: 20px;
+    flex-direction: column;
+    min-width: 0;
+    margin-bottom: 1.5rem;
+    word-wrap: break-word;
+    background-clip: border-box;
+    border-radius: .25rem;
+    background-color: #fff;
+}
+.table{
+    display:block;
+    padding: 16px;
+    width: 100%;
+    overflow-x: auto;
+    position: relative !important;
+}
+div > nav {
+    display:block !important;
+
+}
+.custom_label{
+    font-size: 15px;
+    margin-bottom: 10px;
+    margin-top:15px
+}

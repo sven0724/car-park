@@ -1,0 +1,25 @@
+ftp server: brickflyer.de
+user: airportdev
+pass: %1oy3hJ8
+
+sftp server: brickflyer.de
+user: hosting156106
+pass: c85mv5&M
+
+
+
+
+DB: k129372_airport
+user: k129372_dev
+pass: N%1u93qq
+		Zx506q%h
+
+hosting server 
+https://www.brickflyer.de/world1/
+
+https://www.brickflyer.de/adminer.php
+server: 10.35.46.233:3306
+user: k129372_dev
+pass: N%1u93qq
+DB: k129372_airport
+DB: k129372_world1
